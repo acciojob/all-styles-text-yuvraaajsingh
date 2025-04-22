@@ -4,8 +4,10 @@
 .main{
 	width:200px;
 	background-color:purple;
-	border-left-color:green;
 	border-left-width:5px;
+	border-left-style:solid;
+	border-left-color:green;
+	
 	padding:10px;
 }
 
